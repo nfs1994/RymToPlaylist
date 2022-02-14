@@ -1,0 +1,12 @@
+C:\dev\personal\RymPlaylist\SpotifyService\bin\Debug\net6.0\SpotifyService.deps.json
+C:\dev\personal\RymPlaylist\SpotifyService\bin\Debug\net6.0\SpotifyService.dll
+C:\dev\personal\RymPlaylist\SpotifyService\bin\Debug\net6.0\ref\SpotifyService.dll
+C:\dev\personal\RymPlaylist\SpotifyService\bin\Debug\net6.0\SpotifyService.pdb
+C:\dev\personal\RymPlaylist\SpotifyService\obj\Debug\net6.0\SpotifyService.csproj.AssemblyReference.cache
+C:\dev\personal\RymPlaylist\SpotifyService\obj\Debug\net6.0\SpotifyService.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\personal\RymPlaylist\SpotifyService\obj\Debug\net6.0\SpotifyService.AssemblyInfoInputs.cache
+C:\dev\personal\RymPlaylist\SpotifyService\obj\Debug\net6.0\SpotifyService.AssemblyInfo.cs
+C:\dev\personal\RymPlaylist\SpotifyService\obj\Debug\net6.0\SpotifyService.csproj.CoreCompileInputs.cache
+C:\dev\personal\RymPlaylist\SpotifyService\obj\Debug\net6.0\SpotifyService.dll
+C:\dev\personal\RymPlaylist\SpotifyService\obj\Debug\net6.0\ref\SpotifyService.dll
+C:\dev\personal\RymPlaylist\SpotifyService\obj\Debug\net6.0\SpotifyService.pdb

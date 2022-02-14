@@ -1,0 +1,12 @@
+C:\dev\personal\RymPlaylist\RYMCrawler\bin\Debug\net6.0\RymService.deps.json
+C:\dev\personal\RymPlaylist\RYMCrawler\bin\Debug\net6.0\RymService.dll
+C:\dev\personal\RymPlaylist\RYMCrawler\bin\Debug\net6.0\ref\RymService.dll
+C:\dev\personal\RymPlaylist\RYMCrawler\bin\Debug\net6.0\RymService.pdb
+C:\dev\personal\RymPlaylist\RYMCrawler\obj\Debug\net6.0\RymService.csproj.AssemblyReference.cache
+C:\dev\personal\RymPlaylist\RYMCrawler\obj\Debug\net6.0\RymService.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\personal\RymPlaylist\RYMCrawler\obj\Debug\net6.0\RymService.AssemblyInfoInputs.cache
+C:\dev\personal\RymPlaylist\RYMCrawler\obj\Debug\net6.0\RymService.AssemblyInfo.cs
+C:\dev\personal\RymPlaylist\RYMCrawler\obj\Debug\net6.0\RymService.csproj.CoreCompileInputs.cache
+C:\dev\personal\RymPlaylist\RYMCrawler\obj\Debug\net6.0\RymService.dll
+C:\dev\personal\RymPlaylist\RYMCrawler\obj\Debug\net6.0\ref\RymService.dll
+C:\dev\personal\RymPlaylist\RYMCrawler\obj\Debug\net6.0\RymService.pdb

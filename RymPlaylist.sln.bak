@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleTest", "RymToSpotify\ConsoleTest.csproj", "{82B02341-4D51-43F0-8F73-EF5B6D96DE75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RymService", "RYMCrawler\RymService.csproj", "{59648395-E95B-44BE-9F24-CA9FA23688AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyService", "SpotifyService\SpotifyService.csproj", "{7D748DC0-F206-4E9F-A4C6-76EB604EACA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82B02341-4D51-43F0-8F73-EF5B6D96DE75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B02341-4D51-43F0-8F73-EF5B6D96DE75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B02341-4D51-43F0-8F73-EF5B6D96DE75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B02341-4D51-43F0-8F73-EF5B6D96DE75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59648395-E95B-44BE-9F24-CA9FA23688AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59648395-E95B-44BE-9F24-CA9FA23688AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59648395-E95B-44BE-9F24-CA9FA23688AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59648395-E95B-44BE-9F24-CA9FA23688AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D748DC0-F206-4E9F-A4C6-76EB604EACA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D748DC0-F206-4E9F-A4C6-76EB604EACA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D748DC0-F206-4E9F-A4C6-76EB604EACA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D748DC0-F206-4E9F-A4C6-76EB604EACA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {892723B7-ADBC-48B4-8F82-E7D187949605}
+	EndGlobalSection
+EndGlobal

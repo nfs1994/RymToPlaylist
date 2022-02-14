@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WHjuJKxzMENlbbVniuJA1pvBVYj5iJjn3KRtmOFpE+1cBpdI8oiWORgNa57pDtxzUMWVXlUhV2ITUPghZ/FqNQ==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\personal\\RymToPlaylist\\RymService\\RymService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NicolòSaullo\\.nuget\\packages\\htmlagilitypack\\1.11.39\\htmlagilitypack.1.11.39.nupkg.sha512"
+  ],
+  "logs": []
+}

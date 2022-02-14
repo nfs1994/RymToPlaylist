@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "82b02341-4d51-43f0-8f73-ef5b6d96de75": {
+      "ProjectGuid": "82b02341-4d51-43f0-8f73-ef5b6d96de75",
+      "DisplayName": "ConsoleTest",
+      "ColorIndex": 0
+    },
+    "59648395-e95b-44be-9f24-ca9fa23688ab": {
+      "ProjectGuid": "59648395-e95b-44be-9f24-ca9fa23688ab",
+      "DisplayName": "RymService",
+      "ColorIndex": 1
+    },
+    "7d748dc0-f206-4e9f-a4c6-76eb604eaca0": {
+      "ProjectGuid": "7d748dc0-f206-4e9f-a4c6-76eb604eaca0",
+      "DisplayName": "SpotifyService",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
