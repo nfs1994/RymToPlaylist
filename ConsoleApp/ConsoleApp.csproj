@@ -8,8 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RymService\RymService.csproj" />
-    <ProjectReference Include="..\SpotifyService\SpotifyService.csproj" />
+    <ProjectReference Include="..\RymPlaylist.Service\RymPlaylist.Service.csproj" />
+    <ProjectReference Include="..\RymService\RymPlaylist.Service.csproj" />
   </ItemGroup>
 
 </Project>

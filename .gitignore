@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ConsoleApp/app.config
+/WebApplication/app.config
+/RymPlaylist.API/app.config
+/RymPlaylist.API/appsettings.Development.json
+/RymPlaylist.API/appsettings.json

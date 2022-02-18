@@ -195,32 +195,20 @@
           "lib/netstandard2.0/Swan.Lite.dll": {}
         }
       },
-      "RymService/1.0.0": {
+      "RymPlaylist.Service/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "HtmlAgilityPack": "1.11.39"
-        },
-        "compile": {
-          "bin/placeholder/RymService.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/RymService.dll": {}
-        }
-      },
-      "SpotifyService/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
+          "HtmlAgilityPack": "1.11.39",
           "SpotifyAPI.Web": "6.2.2",
           "SpotifyAPI.Web.Auth": "6.2.2",
           "System.Configuration.ConfigurationManager": "6.0.0"
         },
         "compile": {
-          "bin/placeholder/SpotifyService.dll": {}
+          "bin/placeholder/RymPlaylist.Service.dll": {}
         },
         "runtime": {
-          "bin/placeholder/SpotifyService.dll": {}
+          "bin/placeholder/RymPlaylist.Service.dll": {}
         }
       }
     }
@@ -572,21 +560,15 @@
         "unosquare.swan.lite.nuspec"
       ]
     },
-    "RymService/1.0.0": {
+    "RymPlaylist.Service/1.0.0": {
       "type": "project",
-      "path": "../RymService/RymService.csproj",
-      "msbuildProject": "../RymService/RymService.csproj"
-    },
-    "SpotifyService/1.0.0": {
-      "type": "project",
-      "path": "../SpotifyService/SpotifyService.csproj",
-      "msbuildProject": "../SpotifyService/SpotifyService.csproj"
+      "path": "../RymPlaylist.Service/RymPlaylist.Service.csproj",
+      "msbuildProject": "../RymPlaylist.Service/RymPlaylist.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "RymService >= 1.0.0",
-      "SpotifyService >= 1.0.0"
+      "RymPlaylist.Service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -616,11 +598,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\dev\\personal\\RymToPlaylist\\RymService\\RymService.csproj": {
-              "projectPath": "C:\\dev\\personal\\RymToPlaylist\\RymService\\RymService.csproj"
+            "C:\\dev\\personal\\RymToPlaylist\\RymPlaylist.Service\\RymPlaylist.Service.csproj": {
+              "projectPath": "C:\\dev\\personal\\RymToPlaylist\\RymPlaylist.Service\\RymPlaylist.Service.csproj"
             },
-            "C:\\dev\\personal\\RymToPlaylist\\SpotifyService\\SpotifyService.csproj": {
-              "projectPath": "C:\\dev\\personal\\RymToPlaylist\\SpotifyService\\SpotifyService.csproj"
+            "C:\\dev\\personal\\RymToPlaylist\\RymService\\RymPlaylist.Service.csproj": {
+              "projectPath": "C:\\dev\\personal\\RymToPlaylist\\RymService\\RymPlaylist.Service.csproj"
             }
           }
         }

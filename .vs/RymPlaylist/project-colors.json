@@ -8,7 +8,7 @@
     },
     "59648395-e95b-44be-9f24-ca9fa23688ab": {
       "ProjectGuid": "59648395-e95b-44be-9f24-ca9fa23688ab",
-      "DisplayName": "RymService",
+      "DisplayName": "RymPlaylist.Service",
       "ColorIndex": 1
     },
     "7d748dc0-f206-4e9f-a4c6-76eb604eaca0": {
@@ -20,7 +20,32 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "87bd0f1a-bc93-4411-b0b4-c439a83e50cb": {
+      "ProjectGuid": "87bd0f1a-bc93-4411-b0b4-c439a83e50cb",
+      "DisplayName": "ConsoleApp",
+      "ColorIndex": 3
+    },
+    "6e263afc-9349-4e02-ad03-66917492b087": {
+      "ProjectGuid": "6e263afc-9349-4e02-ad03-66917492b087",
+      "DisplayName": "WebAppTest",
+      "ColorIndex": 4
+    },
+    "6f4ba96e-694c-4af3-83da-d4f8ca9b1905": {
+      "ProjectGuid": "6f4ba96e-694c-4af3-83da-d4f8ca9b1905",
+      "DisplayName": "Domain",
+      "ColorIndex": 5
+    },
+    "45c7e680-7762-497d-8d6e-6ff75900521e": {
+      "ProjectGuid": "45c7e680-7762-497d-8d6e-6ff75900521e",
+      "DisplayName": "RymPlaylist.API",
+      "ColorIndex": 6
+    },
+    "c3f6994a-e50a-44ea-9ea5-3159a21c957a": {
+      "ProjectGuid": "c3f6994a-e50a-44ea-9ea5-3159a21c957a",
+      "DisplayName": "RymPlaylist.Domain",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 8
 }
